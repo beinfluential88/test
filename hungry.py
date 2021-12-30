@@ -5,3 +5,4 @@ if hungry == "yes":
     print("Do not grab too much thought!!")
 else:
     print("Do your work!")
+    print("You got a mail!")
