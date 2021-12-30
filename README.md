@@ -1,2 +1,2 @@
 # test
-My First Repo
+My first repo for git commands demonstration
