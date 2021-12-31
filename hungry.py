@@ -10,3 +10,6 @@ else:
     if thristy == "yes":
         print("Drink some water!")
         print("Do not drink too much though!!")
+
+
+print("Take care of one another")
