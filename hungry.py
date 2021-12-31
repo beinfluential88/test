@@ -6,5 +6,7 @@ if hungry == "yes":
 
     print("Donate some food for the poor")
 else:
-    print("Do your work!")
-    print("You got a mail!")
+    thristy = input("Are you thirsty?")
+    if thristy == "yes":
+        print("Drink some water!")
+        print("Do not drink too much though!!")
