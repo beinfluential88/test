@@ -13,3 +13,6 @@ else:
 
 
 print("Take care of one another")
+
+
+print("Omicron is sweeping through the world")
