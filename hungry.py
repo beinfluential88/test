@@ -11,10 +11,7 @@ else:
         print("Drink some water!")
         print("Do not drink too much though!!")
     else:
-        print("Take some tea!")
+        print("Water will still keep your body hydrated")
 
 
 print("Take care of one another")
-
-
-print("Omicron is sweeping through the world")
